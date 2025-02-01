@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025년 모의고사/3월/고1 모의고사 변형문제/2025-02-01-고1-모의고사-영어영역-순서배열.md",
+                "file": "_tabs/archives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-01-고1-모의고사-영어영역-순서배열"
+              "title": "archives"
             }
           }
         ]
@@ -168,25 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "142b823b458ac00e",
+  "active": "fae920af1f7b8eca",
   "lastOpenFiles": [
+    "_tabs/about.md",
+    "_tabs/tags.md",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_posts/2025년 모의고사/3월/고1 모의고사 변형문제/2025-02-01-고1-모의고사-영어영역-무관한문장.md",
+    "_posts/단어장/2025-02-01-워드마스터-중등고난도.md",
+    "_posts/2025년 모의고사/3월/고1 모의고사 변형문제/2025-02-01-고1-모의고사-영어영역-순서배열.md",
     "_site/Pasted image 20250201185731.png",
     "Pasted image 20250201185731.png",
-    "_tabs/tags.md",
     "assets/img",
     "assets/새 폴더",
     "_site/assets/attach/WordMasterMH_PRINT용.hwp",
     "_site/assets/attach",
     "assets/attach/WordMasterMH_PRINT용.hwp",
     "assets/attach",
-    "_tabs/about.md",
-    "_tabs/categories.md",
-    "_tabs/archives.md",
-    "_posts/단어장/2025-02-01-워드마스터-중등고난도.md",
     "_site/WordMasterMH_PRINT용.hwp",
     "WordMasterMH_PRINT용.hwp",
-    "_posts/2025년 모의고사/3월/고1 모의고사 변형문제/2025-02-01-고1-모의고사-영어영역-무관한문장.md",
-    "_posts/2025년 모의고사/3월/고1 모의고사 변형문제/2025-02-01-고1-모의고사-영어영역-순서배열.md",
     "_posts/2025년 모의고사/3월/고2 모의고사 변형문제/2025-02-01-고2-모의고사-영어영역-무관한문장.md",
     "_posts/2025년 모의고사/3월/고2 모의고사 변형문제/2025-02-01-고2-모의고사-영어영역-순서배열.md",
     "_posts/2025년 모의고사/3월/고3 모의고사 변형문제/2025-02-01-고3-모의고사-영어영역-무관한문장.md",
